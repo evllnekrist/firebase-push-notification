@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://firebase.google.com/images/social.png"/>
+  <img src="https://cdn-images-1.medium.com/max/1600/1*ipwpqQrHz0Lkd_5setXQCQ.png"/>
 </p>
 
 ## Salam,
